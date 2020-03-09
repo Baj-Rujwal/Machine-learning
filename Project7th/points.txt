@@ -1,0 +1,10 @@
+avg lina nahune (0.000 to 100)
+
+
+
+enhancements
+	remove lower rows because irrelevant data
+	
+
+Errors
+	Should we train separately for various genres??? (also put in improvements)
