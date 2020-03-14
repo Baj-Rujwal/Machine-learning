@@ -1,9 +1,10 @@
 avg lina nahune (0.000 to 100)
-
+sort garda kina ramro result
 
 
 enhancements
 	remove lower rows because irrelevant data
+	neural networks
 	
 
 Errors
